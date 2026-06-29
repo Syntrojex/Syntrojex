@@ -1,4 +1,8 @@
+<div align="center">
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=Syntrojex&color=1a7f4e&style=for-the-badge&label=PROFILE%20VIEWS)
+
+</div>
 
 ---
 
