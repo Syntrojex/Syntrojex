@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Syntrojex&theme=dark)](https://github-readme-streak-stats.herokuapp.com?user=Syntrojex&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Syntrojex&theme=dark)](https://github-readme-streak-stats.herokuapp.com?user=Syntrojex&theme=dark) 
 
 </div>
 
