@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=240&section=header&text=Syntrojex&fontSize=68&fontColor=00eaff&fontAlignY=38&animation=twinkling" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00EAFF&center=true&vCenter=true&multiline=false&width=600&lines=Flutter+Developer+%F0%9F%93%B1;Building+Cross-Platform+Applications+%F0%9F%9A%80;Software+Engineer+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00EAFF&center=true&vCenter=true&multiline=false&width=600&lines=Flutter+Developer+%F0%9F%93%B1;Mobile+App+Developer+%F0%9F%93%B2;Software+Engineer+%F0%9F%92%BB)](https://git.io/typing-svg)
   
 <div align="center">
   
