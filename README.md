@@ -36,6 +36,17 @@
 
 ---
 
+## 💬 Languages I Speak
+
+> *The languages I actually write code in — not just frameworks I bolt on top.*
+
+| Language | Why I Use It |
+|---|---|
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | Where it all started. Built my foundation in OOP, data structures, and algorithms. |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | My daily driver. Powers every Flutter app I build, from UI to logic. |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
