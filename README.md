@@ -89,7 +89,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Syntrojex&theme=dark&hide_border=true&background=0D1117&stroke=00EAFF&ring=00EAFF&fire=00EAFF&currStreakLabel=00EAFF&cache_seconds=1800)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Syntrojex&theme=dark)](https://github-readme-streak-stats.herokuapp.com?user=Syntrojex&theme=dark)
 
 </div>
 
