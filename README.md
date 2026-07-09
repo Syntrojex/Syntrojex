@@ -77,6 +77,14 @@
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Tech | Live |
+|---|---|---|:---:|
+| [**Calculin**](https://github.com/Syntrojex/calculin) | A math workspace with 14 calculators — algebra, calculus, matrices, limits & more — each showing step-by-step solutions, not just the final answer. | React, TypeScript | [![Live](https://img.shields.io/badge/↗-black?style=flat-square)](https://calculin.vercel.app) |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
