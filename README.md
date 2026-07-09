@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=240&section=header&text=Syntrojex&fontSize=68&fontColor=00eaff&fontAlignY=38&animation=twinkling" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00EAFF&center=true&vCenter=true&multiline=false&width=700&lines=Flutter+Developer+%F0%9F%93%B1;Software+Engineer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%8E%AF;Learning%3A+State+Management+%28Bloc%2C+Riverpod%2C+Provider%29+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00EAFF&center=true&vCenter=true&multiline=false&width=700&lines=Flutter+Developer+%F0%9F%93%B1;Software+Engineer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%8E%AF;State+Management+%28Bloc%2C+Riverpod%2C+Provider%29+%E2%9A%A1)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Syntrojex&color=1a7f4e&style=for-the-badge&label=PROFILE%20VIEWS)
 
