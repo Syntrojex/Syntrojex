@@ -95,6 +95,20 @@
 
 ---
 
+## 🔗 Find Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-mustafa--amir.vercel.app-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://mustafa-amir.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Muhammad%20Mustafa%20Amir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-amir-syntrojex)
+
+[![Email](https://img.shields.io/badge/EMAIL-mustafaamir398a%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafaamir398a@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/PHONE-%2B92%20332%204097601-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923324097601)
+
+</div>
+
+---
+
 ```
 /* Simplicity is prerequisite for reliability. */
 ```
