@@ -78,11 +78,12 @@
 ---
 
 ## 🚀 Featured Projects
-
-| Project | Description | Tech | Live |
-|---|---|---|:---:|
-| [**Calculin**](https://github.com/Syntrojex/calculin) | A math workspace with 14 calculators — algebra, calculus, matrices, limits & more — each showing step-by-step solutions, not just the final answer. | React, TypeScript | [![Live](https://img.shields.io/badge/↗-black?style=flat-square)](https://calculin.vercel.app) |
-
+ 
+| Project | Description | Live |
+|---|---|:---:|
+| [**Calculin**](https://github.com/Syntrojex/calculin) | A math workspace with 14 calculators — algebra, calculus, matrices, limits & more — each showing step-by-step solutions, not just the final answer. | [![Live](https://img.shields.io/badge/↗-black?style=flat-square)](https://calculin.vercel.app) |
+| [**ma-sfml**](https://github.com/Syntrojex/ma-sfml) | An npm CLI tool that sets up and links SFML for C++ projects on Windows — auto-detects your IDE, fetches the right SFML version, and links it in one command. | [![How to Use](https://img.shields.io/badge/How%20to%20Use-black?style=flat-square)](https://github.com/Syntrojex/ma-sfml#readme) |
+ 
 ---
 
 ## 📊 GitHub Stats
