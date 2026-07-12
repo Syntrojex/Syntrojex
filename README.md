@@ -79,11 +79,11 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| [**Calculin**](https://github.com/Syntrojex/calculin) | A modern mathematics workspace featuring **14 powerful calculators** for algebra, calculus, matrices, limits, and more, with detailed **step-by-step solutions** instead of just final answers. You can **[visit the Live Demo](https://calculin.vercel.app)** to explore the application. |
-| [**ma-sfml**](https://github.com/Syntrojex/ma-sfml) | A professional **NPM CLI** that automates SFML setup for C++ projects on Windows by detecting your IDE, downloading the required SFML version, and configuring everything with a single command. Read the complete **[documentation here](https://github.com/Syntrojex/ma-sfml#readme)** to learn more. |
-| [**Dart Programming**](https://github.com/Syntrojex/Dart-Programming) | A structured collection of Dart programming concepts, examples, and notes. For practical coding exercises, visit the **[Dart-Programming-Practice](https://github.com/Syntrojex/Dart-Programming-Practice)** repository. |
+| Project | Description | Action |
+|---|---|:---:|
+| [**Calculin**](https://github.com/Syntrojex/calculin) | A math workspace with 14 calculators — algebra, calculus, matrices, limits & more — each providing step-by-step solutions instead of just final answers. | [![Live Demo](https://img.shields.io/badge/Live%20Demo-black?style=for-the-badge)](https://calculin.vercel.app) |
+| [**ma-sfml**](https://github.com/Syntrojex/ma-sfml) | An NPM CLI tool that sets up and links SFML for C++ projects on Windows — automatically detects your IDE, fetches the right SFML version, and configures everything with one command. | [![Docs](https://img.shields.io/badge/Docs-black?style=for-the-badge)](https://github.com/Syntrojex/ma-sfml#readme) |
+| [**Dart Programming**](https://github.com/Syntrojex/Dart-Programming) | A structured collection of Dart concepts, notes, and examples — paired with hands-on exercises in the [Dart Programming Practice](https://github.com/Syntrojex/Dart-Programming-Practice) repository. | [![Repository](https://img.shields.io/badge/Repository-black?style=for-the-badge)](https://github.com/Syntrojex/Dart-Programming) |
 
 ---
 
