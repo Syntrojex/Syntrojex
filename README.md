@@ -91,7 +91,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Syntrojex&theme=dark)](https://github-readme-streak-stats.herokuapp.com?user=Syntrojex&theme=dark)
+![GitHub Stats](https://streak-stats.demolab.com?user=Syntrojex&theme=gruvbox&hide_border=true)
 
 </div>
 
