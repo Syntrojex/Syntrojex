@@ -83,7 +83,7 @@
 |---|---|:---:|
 | [**Calculin**](https://github.com/Syntrojex/calculin) | A math workspace with 14 calculators — algebra, calculus, matrices, limits & more — each providing step-by-step solutions instead of just final answers. | [![Live Demo](https://img.shields.io/badge/Live%20Demo-black?style=for-the-badge)](https://calculin.vercel.app) |
 | [**ma-sfml**](https://github.com/Syntrojex/ma-sfml) | An NPM CLI tool that sets up and links SFML for C++ projects on Windows — automatically detects your IDE, fetches the right SFML version, and configures everything with one command. | [![Docs](https://img.shields.io/badge/Docs-black?style=for-the-badge)](https://github.com/Syntrojex/ma-sfml#readme) |
-| [**Dart Programming**](https://github.com/Syntrojex/Dart-Programming) | A structured collection of Dart concepts, notes, and examples — paired with hands-on exercises in the [Dart Programming Practise](https://github.com/Syntrojex/Dart-Programming-Practice) repository. | [![Repository](https://img.shields.io/badge/Repository-black?style=for-the-badge)](https://github.com/Syntrojex/Dart-Programming) |
+| [**Dart Programming Concepts**](https://github.com/Syntrojex/Dart-Concepts) | A structured collection of Dart concepts, notes, and examples — paired with hands-on exercises in the [Dart Programming Practise](https://github.com/Syntrojex/Dart-Programming-Practice) repository. | [![Repository](https://img.shields.io/badge/Repository-black?style=for-the-badge)](https://github.com/Syntrojex/Dart-Concepts) |
 
 ---
 
