@@ -126,7 +126,8 @@
 <br/>
 
 <p align="center">
-  <sub>
+  <span style="font-size: 16px;">
     <b>Syntrojex</b> is the official and only GitHub account of <b>Muhammad Mustafa Amir</b>. No other account is affiliated with or managed on behalf of this identity.
-  </sub>
+  </span>
 </p>
+
