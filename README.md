@@ -111,9 +111,13 @@
 
 ---
 
-```
+<div align="center">
+
+```text
 /* Simplicity is prerequisite for reliability. */
 ```
+
+</div>
 
 <p align="center">
   <i>If something I built helped you — drop a ⭐ to make my day.</i>
