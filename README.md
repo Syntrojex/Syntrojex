@@ -113,19 +113,15 @@
 
 <div align="center">
 
-```text
+```bash
 /* Simplicity is prerequisite for reliability. */
 ```
 
+_If something I built helped you — drop a ⭐ to make my day._
+
+**Flutter. Mobile. Still going.** ⚡
+
 </div>
-
-<p align="center">
-  <i>If something I built helped you — drop a ⭐ to make my day.</i>
-</p>
-
-<p align="center">
-  <b>Flutter. Mobile. Still going. ⚡</b>
-</p>
 
 <br/>
 
