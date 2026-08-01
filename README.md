@@ -114,7 +114,7 @@
 <div align="center">
 
 ```bash
-/* Simplicity is prerequisite for reliability. */
+# Simplicity is prerequisite for reliability.
 ```
 
 _If something I built helped you — drop a ⭐ to make my day._
