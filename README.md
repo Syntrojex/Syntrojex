@@ -113,9 +113,7 @@
 
 <div align="center">
 
-```bash
-# Simplicity is prerequisite for reliability.
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1a2e&height=55&text=Simplicity%20is%20prerequisite%20for%20reliability.&fontSize=16&fontColor=00eaff&fontAlignY=55&fontAlign=50" width="100%"/>
 
 _If something I built helped you — drop a ⭐ to make my day._
 
