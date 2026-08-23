@@ -5,8 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00EAFF&center=true&vCenter=true&multiline=false&width=700&lines=Flutter+Developer+%F0%9F%93%B1;Software+Engineer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%8E%AF;State+Management+%28Bloc%2C+Riverpod%2C+Provider%29+%E2%9A%A1)](https://git.io/typing-svg)
 
 [![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fsyntrojex&style=for-the-badge)](https://rankistan.dev/#syntrojex)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Syntrojex&color=1a7f4e&style=for-the-badge&label=PROFILE%20VIEWS)
+[![Profile Views](https://komarev.com/ghpvc/?username=Syntrojex&color=1a7f4e&style=for-the-badge&label=PROFILE%20VIEWS)](https://github.com/Syntrojex)
 
 </div>
 
