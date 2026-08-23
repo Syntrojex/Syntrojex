@@ -45,6 +45,7 @@
 |---|---|
 | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | Where it all started. Built my foundation in OOP, data structures, and algorithms. |
 | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | My daily driver. Powers every Flutter app I build, from UI to logic. |
+| ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white) | Where I learned to work close to the machine — understanding registers, memory, instructions, and low-level execution. |
 
 ---
 
