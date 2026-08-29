@@ -50,7 +50,7 @@
 </tr>
 <tr>
 <td width="160"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="30" align="left"/>&nbsp;&nbsp;<b>C++</b></td>
-<td>Where it all started — OOP, data structures, and algorithms built my foundation.</td>
+<td>Where it all started — OOP, data structures, and algorithms built my foundation, with a growing interest in game development.</td>
 </tr>
 </table>
 
