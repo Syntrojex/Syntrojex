@@ -52,6 +52,10 @@
 <td width="160"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="30" align="left"/>&nbsp;&nbsp;<b>C++</b></td>
 <td>Where it all started — OOP, data structures, and algorithms built my foundation, with a growing interest in game development.</td>
 </tr>
+<tr>
+<td width="160"><img src="https://img.shields.io/badge/-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white" width="30" align="left"/>&nbsp;&nbsp;<b>Assembly</b></td>
+<td>Where I learned to work close to the machine — registers, memory, and raw instructions.</td>
+</tr>
 </table>
 
 ---
