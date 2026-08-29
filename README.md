@@ -52,11 +52,22 @@
 ## ⚡ Tech Stack
 
 <div align="center">
+
+<sub><b>💻 LANGUAGES & FRAMEWORKS</b></sub>
+
 <table>
 <tr>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="40"/><br/><sub>Flutter</sub></td>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="40"/><br/><sub>Dart</sub></td>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40"/><br/><sub>C++</sub></td>
+<td align="center" width="80"><img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white" height="28"/><br/><sub>Assembly</sub></td>
+</tr>
+</table>
+
+<sub><b>🧰 TOOLS & DATABASES</b></sub>
+
+<table>
+<tr>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="40"/><br/><sub>Firebase</sub></td>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="40"/><br/><sub>Supabase</sub></td>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40"/><br/><sub>Git</sub></td>
@@ -67,6 +78,7 @@
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="40"/><br/><sub>Netlify</sub></td>
 </tr>
 </table>
+
 </div>
 
 ---
