@@ -77,8 +77,6 @@
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48"/><br/><sub>Supabase</sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/><sub>Git</sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br/><sub>GitHub</sub></td>
-</tr>
-<tr>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48"/><br/><sub>Android Studio</sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/><br/><sub>VS Code</sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48"/><br/><sub>Vercel</sub></td>
