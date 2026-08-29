@@ -82,7 +82,6 @@
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48"/><br/><sub>Android Studio</sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/><br/><sub>VS Code</sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48"/><br/><sub>Vercel</sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="48"/><br/><sub>Netlify</sub></td>
 </tr>
 </table>
 
