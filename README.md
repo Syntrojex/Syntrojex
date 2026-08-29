@@ -73,7 +73,7 @@
 
 <h4>🧰 TOOLS & DATABASES</h4>
 
-<table width="630">
+<table width="630" style="table-layout:fixed">
 <tr>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48"/><br/><sub>Firebase</sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48"/><br/><sub>Supabase</sub></td>
