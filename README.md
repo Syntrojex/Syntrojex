@@ -105,12 +105,9 @@
 <img src="https://placehold.co/700x350/16213e/00eaff?text=PLACEHOLDER+%E2%80%94+Homepage+Screenshot" width="100%"/>
 
 
-| | |
-|---|---|
-| **Description** | 45+ DSA topics with C++ code and step-by-step visualizations |
-| **Live Demo** | [algostructures.vercel.app](https://algostructures.vercel.app) |
-| **Repo** | [github.com/Syntrojex/algostructures](https://github.com/Syntrojex/algostructures) |
-
+**Description:** 45+ DSA topics with C++ code and step-by-step visualizations<br/>
+**Live Demo:** [algostructures.vercel.app](https://algostructures.vercel.app)<br/>
+**Repo:** [GitHub](https://github.com/Syntrojex/algostructures)<br/>
 </details>
 
 </td>
@@ -123,12 +120,9 @@
 <img src="https://placehold.co/700x350/16213e/00eaff?text=PLACEHOLDER+%E2%80%94+Homepage+Screenshot" width="100%"/>
 
 
-| | |
-|---|---|
-| **Description** | Algebra, calculus, matrices, limits & more — with step-by-step solutions |
-| **Live Demo** | [calculin.vercel.app](https://calculin.vercel.app) |
-| **Repo** | [github.com/Syntrojex/calculin](https://github.com/Syntrojex/calculin) |
-
+**Description:** Algebra, calculus, matrices, limits & more — with step-by-step solutions<br/>
+**Live Demo:** [calculin.vercel.app](https://calculin.vercel.app)<br/>
+**Repo:** [GitHub](https://github.com/Syntrojex/calculin)<br/>
 </details>
 
 </td>
@@ -145,12 +139,8 @@
 <img src="https://placehold.co/700x350/16213e/00eaff?text=PLACEHOLDER+%E2%80%94+Homepage+Screenshot" width="100%"/>
 
 
-| | |
-|---|---|
-| **Description** | Structured Dart concepts and notes, paired with hands-on coding examples |
-| **Repo** | [github.com/Syntrojex/Dart-Concepts](https://github.com/Syntrojex/Dart-Concepts) |
-| **Practice Repo** | [github.com/Syntrojex/Dart-Programming-Practice](https://github.com/Syntrojex/Dart-Programming-Practice) |
-
+**Description:** Structured Dart concepts and notes, paired with hands-on examples in a companion practice repo<br/>
+**Repo:** [GitHub](https://github.com/Syntrojex/Dart-Concepts)<br/>
 </details>
 
 </td>
@@ -163,11 +153,8 @@
 <img src="https://placehold.co/700x350/16213e/00eaff?text=PLACEHOLDER+%E2%80%94+Homepage+Screenshot" width="100%"/>
 
 
-| | |
-|---|---|
-| **Description** | Auto-links SFML for C++ projects on Windows — detects your IDE and configures everything in one command |
-| **Docs** | [github.com/Syntrojex/ma-sfml#readme](https://github.com/Syntrojex/ma-sfml#readme) |
-
+**Description:** Auto-links SFML for C++ projects on Windows — detects your IDE and configures everything in one command<br/>
+**Docs:** [GitHub](https://github.com/Syntrojex/ma-sfml#readme)<br/>
 </details>
 
 </td>
@@ -183,12 +170,9 @@
 <br/>
 <img src="https://placehold.co/700x350/16213e/00eaff?text=PLACEHOLDER+%E2%80%94+Homepage+Screenshot" width="100%"/>
 
-| | |
-|---|---|
-| **Description** | Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically — write `.cpp`, press Run, done |
-| **Live Demo** | [Marketplace](https://marketplace.visualstudio.com/items?itemName=Syntrojex.setify-cpp) |
-| **Repo** | [github.com/Syntrojex/setify-cpp-vscode](https://github.com/Syntrojex/setify-cpp-vscode) |
-
+**Description:** Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically — write `.cpp`, press Run, done<br/>
+**Live Demo:** [Marketplace](https://marketplace.visualstudio.com/items?itemName=Syntrojex.setify-cpp)<br/>
+**Repo:** [GitHub](https://github.com/Syntrojex/setify-cpp-vscode)<br/>
 </details>
 
 </td>
