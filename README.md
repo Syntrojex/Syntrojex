@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<sub><b>💻 LANGUAGES & FRAMEWORKS</b></sub>
+<h3>💻 LANGUAGES & FRAMEWORKS</h3>
 
 <table>
 <tr>
@@ -64,7 +64,7 @@
 </tr>
 </table>
 
-<sub><b>🧰 TOOLS & DATABASES</b></sub>
+<h3>🧰 TOOLS & DATABASES</h3>
 
 <table>
 <tr>
