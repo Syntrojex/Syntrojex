@@ -95,12 +95,111 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Action |
-|---|---|:---:|
-| [**AlgoStructures**](https://github.com/Syntrojex/algostructures) | An interactive DSA learning hub — 45+ topics with C++ code and step-by-step visualizations. | [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge)](https://algostructures.vercel.app) |
-| [**Dart Programming Concepts**](https://github.com/Syntrojex/Dart-Concepts) | Structured Dart concepts and notes, paired with hands-on coding examples & exercises in [Dart Programming Practise](https://github.com/Syntrojex/Dart-Programming-Practice). | [![Repository](https://img.shields.io/badge/Repository-000000?style=for-the-badge)](https://github.com/Syntrojex/Dart-Concepts) |
-| [**ma-sfml**](https://github.com/Syntrojex/ma-sfml) | An NPM CLI tool that auto-links SFML for C++ projects on Windows — detects your IDE and configures everything in one command. | [![Docs](https://img.shields.io/badge/Docs-000000?style=for-the-badge)](https://github.com/Syntrojex/ma-sfml#readme) |
-| [**Calculin**](https://github.com/Syntrojex/calculin) | A math workspace with 14 calculators — algebra, calculus, matrices, limits & more, with step-by-step solutions. | [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge)](https://calculin.vercel.app) |
+<table>
+<tr>
+<td width="49%" valign="top">
+
+<details>
+<summary><b>AlgoStructures</b> — interactive DSA learning hub</summary>
+<br/>
+<img src="https://placehold.co/700x350/16213e/00eaff?text=PLACEHOLDER+%E2%80%94+Homepage+Screenshot" width="100%"/>
+
+
+| | |
+|---|---|
+| **Description** | 45+ DSA topics with C++ code and step-by-step visualizations |
+| **Live Demo** | [algostructures.vercel.app](https://algostructures.vercel.app) |
+| **Repo** | [github.com/Syntrojex/algostructures](https://github.com/Syntrojex/algostructures) |
+
+</details>
+
+</td>
+<td width="2%"></td>
+<td width="49%" valign="top">
+
+<details>
+<summary><b>Calculin</b> — math workspace with 14 calculators</summary>
+<br/>
+<img src="https://placehold.co/700x350/16213e/00eaff?text=PLACEHOLDER+%E2%80%94+Homepage+Screenshot" width="100%"/>
+
+
+| | |
+|---|---|
+| **Description** | Algebra, calculus, matrices, limits & more — with step-by-step solutions |
+| **Live Demo** | [calculin.vercel.app](https://calculin.vercel.app) |
+| **Repo** | [github.com/Syntrojex/calculin](https://github.com/Syntrojex/calculin) |
+
+</details>
+
+</td>
+</tr>
+<tr>
+<td colspan="3"><hr/></td>
+</tr>
+<tr>
+<td width="49%" valign="top">
+
+<details>
+<summary><b>Dart Programming Concepts</b> — structured Dart notes & practice</summary>
+<br/>
+<img src="https://placehold.co/700x350/16213e/00eaff?text=PLACEHOLDER+%E2%80%94+Homepage+Screenshot" width="100%"/>
+
+
+| | |
+|---|---|
+| **Description** | Structured Dart concepts and notes, paired with hands-on coding examples |
+| **Repo** | [github.com/Syntrojex/Dart-Concepts](https://github.com/Syntrojex/Dart-Concepts) |
+| **Practice Repo** | [github.com/Syntrojex/Dart-Programming-Practice](https://github.com/Syntrojex/Dart-Programming-Practice) |
+
+</details>
+
+</td>
+<td width="2%"></td>
+<td width="49%" valign="top">
+
+<details>
+<summary><b>ma-sfml</b> — NPM CLI tool for SFML auto-linking</summary>
+<br/>
+<img src="https://placehold.co/700x350/16213e/00eaff?text=PLACEHOLDER+%E2%80%94+Homepage+Screenshot" width="100%"/>
+
+
+| | |
+|---|---|
+| **Description** | Auto-links SFML for C++ projects on Windows — detects your IDE and configures everything in one command |
+| **Docs** | [github.com/Syntrojex/ma-sfml#readme](https://github.com/Syntrojex/ma-sfml#readme) |
+
+</details>
+
+</td>
+</tr>
+<tr>
+<td colspan="3"><hr/></td>
+</tr>
+<tr>
+<td width="49%" valign="top">
+
+<details>
+<summary><b>Setify C++</b> — zero-config C++ tooling for VS Code</summary>
+<br/>
+<img src="https://placehold.co/700x350/16213e/00eaff?text=PLACEHOLDER+%E2%80%94+Homepage+Screenshot" width="100%"/>
+
+| | |
+|---|---|
+| **Description** | Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically — write `.cpp`, press Run, done |
+| **Live Demo** | [Marketplace](https://marketplace.visualstudio.com/items?itemName=Syntrojex.setify-cpp) |
+| **Repo** | [github.com/Syntrojex/setify-cpp-vscode](https://github.com/Syntrojex/setify-cpp-vscode) |
+
+</details>
+
+</td>
+<td width="2%"></td>
+<td width="49%" valign="top">
+
+</td>
+</tr>
+</table>
+
+<!-- Add future Flutter projects here as a new <tr> row, same two-column format -->
 
 ---
 
