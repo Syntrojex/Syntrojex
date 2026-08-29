@@ -52,30 +52,21 @@
 ## ⚡ Tech Stack
 
 <div align="center">
-
-**📱 Mobile Development**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**🧠 Core Languages**
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-
-**🗄️ Backend & Database**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**🧰 Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
+<table>
+<tr>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="40"/><br/><sub>Flutter</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="40"/><br/><sub>Dart</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40"/><br/><sub>C++</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="40"/><br/><sub>Firebase</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="40"/><br/><sub>Supabase</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40"/><br/><sub>Git</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40"/><br/><sub>GitHub</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="40"/><br/><sub>Android Studio</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40"/><br/><sub>VS Code</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="40"/><br/><sub>Vercel</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="40"/><br/><sub>Netlify</sub></td>
+</tr>
+</table>
 </div>
 
 ---
