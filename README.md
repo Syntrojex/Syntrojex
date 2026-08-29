@@ -105,7 +105,8 @@
 <img src="https://placehold.co/700x350/16213e/00eaff?text=PLACEHOLDER+%E2%80%94+Homepage+Screenshot" width="100%"/>
 
 
-**Description:** 45+ DSA topics with C++ code and step-by-step visualizations<br/>
+45+ DSA topics with C++ code and step-by-step visualizations
+
 **Live Demo:** [algostructures.vercel.app](https://algostructures.vercel.app)<br/>
 **Repo:** [GitHub](https://github.com/Syntrojex/algostructures)<br/>
 </details>
@@ -120,7 +121,8 @@
 <img src="https://placehold.co/700x350/16213e/00eaff?text=PLACEHOLDER+%E2%80%94+Homepage+Screenshot" width="100%"/>
 
 
-**Description:** Algebra, calculus, matrices, limits & more — with step-by-step solutions<br/>
+Algebra, calculus, matrices, limits & more — with step-by-step solutions
+
 **Live Demo:** [calculin.vercel.app](https://calculin.vercel.app)<br/>
 **Repo:** [GitHub](https://github.com/Syntrojex/calculin)<br/>
 </details>
@@ -139,7 +141,8 @@
 <img src="https://placehold.co/700x350/16213e/00eaff?text=PLACEHOLDER+%E2%80%94+Homepage+Screenshot" width="100%"/>
 
 
-**Description:** Structured Dart concepts and notes, paired with hands-on examples in a companion practice repo<br/>
+Structured Dart concepts and notes, paired with hands-on examples in a companion practice repo
+
 **Repo:** [GitHub](https://github.com/Syntrojex/Dart-Concepts)<br/>
 </details>
 
@@ -153,7 +156,8 @@
 <img src="https://placehold.co/700x350/16213e/00eaff?text=PLACEHOLDER+%E2%80%94+Homepage+Screenshot" width="100%"/>
 
 
-**Description:** Auto-links SFML for C++ projects on Windows — detects your IDE and configures everything in one command<br/>
+Auto-links SFML for C++ projects on Windows — detects your IDE and configures everything in one command
+
 **Docs:** [GitHub](https://github.com/Syntrojex/ma-sfml#readme)<br/>
 </details>
 
@@ -170,7 +174,8 @@
 <br/>
 <img src="https://placehold.co/700x350/16213e/00eaff?text=PLACEHOLDER+%E2%80%94+Homepage+Screenshot" width="100%"/>
 
-**Description:** Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically — write `.cpp`, press Run, done<br/>
+Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically — write `.cpp`, press Run, done
+
 **Live Demo:** [Marketplace](https://marketplace.visualstudio.com/items?itemName=Syntrojex.setify-cpp)<br/>
 **Repo:** [GitHub](https://github.com/Syntrojex/setify-cpp-vscode)<br/>
 </details>
