@@ -37,22 +37,24 @@
 
 ---
 
-## 💬 Languages I Speak
+### 🎯 Core Development Focus
 
-> *The languages I actually write code in — not just frameworks I bolt on top.*
-
-| Language | Why I Use It |
-|---|---|
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | Where it all started. Built my foundation in OOP, data structures, and algorithms. |
-| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | My daily driver. Powers every Flutter app I build, from UI to logic. |
-| ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white) | Where I learned to work close to the machine — understanding registers, memory, instructions, and low-level execution. |
+<table>
+<tr>
+<td width="160"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="30" align="left"/>&nbsp;&nbsp;<b>Flutter</b></td>
+<td>My primary focus — building cross-platform mobile apps from UI to logic.</td>
+</tr>
+<tr>
+<td width="160"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="30" align="left"/>&nbsp;&nbsp;<b>Dart</b></td>
+<td>The language behind every Flutter app I ship, used daily.</td>
+</tr>
+<tr>
+<td width="160"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="30" align="left"/>&nbsp;&nbsp;<b>C++</b></td>
+<td>Where it all started — OOP, data structures, and algorithms built my foundation.</td>
+</tr>
+</table>
 
 ---
-
-
-
-
-
 
 ## ⚡ Tech Stack
 
