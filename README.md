@@ -222,3 +222,4 @@ Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically
   </span>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=footer" width="100%"/>
