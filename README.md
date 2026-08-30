@@ -216,20 +216,6 @@ Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically
 
 ---
 
-<div align="center">
-
-```bash
-# Simplicity is prerequisite for reliability.
-```
-
-_If something I built helped you — drop a ⭐ to make my day._
-
-**Flutter. Mobile. Still going.** ⚡
-
-</div>
-
-<br/>
-
 <p align="center">
   <span style="font-size: 16px;">
     <b>Syntrojex</b> is the official and only GitHub account of <b>Muhammad Mustafa Amir</b>. No other account is affiliated with or managed on behalf of this identity.
