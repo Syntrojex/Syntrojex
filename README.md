@@ -198,9 +198,9 @@ Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically
 <summary><b>View all practice repositories</b> — DSA, Dart, C++, and Assembly</summary>
 <br/>
 
-<table width="700">
+<table>
 <tr>
-<td width="350" valign="top">
+<td width="50%" valign="top">
 
 **Dart**
 - [Dart-Programming-Practise](https://github.com/Syntrojex/Dart-Programming-Practise) — Hands-on fundamentals
@@ -213,7 +213,7 @@ Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically
 - [8086-Assembly-Lab](https://github.com/Syntrojex/8086-Assembly-Lab) — Lab exercises
 
 </td>
-<td width="350" valign="top">
+<td width="50%" valign="top">
 
 **C++**
 - [Cpp-Programming-Practise](https://github.com/Syntrojex/Cpp-Programming-Practise) — Hands-on fundamentals
