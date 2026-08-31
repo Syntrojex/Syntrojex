@@ -198,22 +198,37 @@ Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically
 <summary><b>View all practice repositories</b> — DSA, Dart, C++, and Assembly</summary>
 <br/>
 
-**Dart**
-- [Dart-Programming-Practise](https://github.com/Syntrojex/Dart-Programming-Practise)
-- [Problem-Solving-in-Dart](https://github.com/Syntrojex/Problem-Solving-in-Dart) — LeetCode & GeeksforGeeks solutions
+<table width="700">
+<tr>
+<td width="350" valign="top">
 
-**C++**
-- [Cpp-Programming-Practise](https://github.com/Syntrojex/Cpp-Programming-Practise)
-- [Cpp-Assignments](https://github.com/Syntrojex/Cpp-Assignments)
-- [Cpp-Lab-Manuals](https://github.com/Syntrojex/Cpp-Lab-Manuals)
-- [Problem-Solving-in-Cpp](https://github.com/Syntrojex/Problem-Solving-in-Cpp) — LeetCode & GeeksforGeeks solutions
+**Dart**
+- [Dart-Programming-Practise](https://github.com/Syntrojex/Dart-Programming-Practise) — Hands-on fundamentals
+- [Problem-Solving-in-Dart](https://github.com/Syntrojex/Problem-Solving-in-Dart) — LeetCode & GFG solutions
+
+<hr/>
 
 **Assembly (8086)**
-- [8086-Assembly](https://github.com/Syntrojex/8086-Assembly)
-- [8086-Assembly-Lab](https://github.com/Syntrojex/8086-Assembly-Lab)
+- [8086-Assembly](https://github.com/Syntrojex/8086-Assembly) — Hands-on fundamentals
+- [8086-Assembly-Lab](https://github.com/Syntrojex/8086-Assembly-Lab) — Lab exercises
+
+</td>
+<td width="350" valign="top">
+
+**C++**
+- [Cpp-Programming-Practise](https://github.com/Syntrojex/Cpp-Programming-Practise) — Hands-on fundamentals
+- [Cpp-Assignments](https://github.com/Syntrojex/Cpp-Assignments) — University assignments
+- [Cpp-Lab-Manuals](https://github.com/Syntrojex/Cpp-Lab-Manuals) — Lab manual work
+- [Problem-Solving-in-Cpp](https://github.com/Syntrojex/Problem-Solving-in-Cpp) — LeetCode & GFG solutions
+
+<hr/>
 
 **Data Structures & Algorithms**
 - [DSA-Problem-Solving](https://github.com/Syntrojex/DSA-Problem-Solving) — FAST-NU assignments
+
+</td>
+</tr>
+</table>
 
 </details>
 
