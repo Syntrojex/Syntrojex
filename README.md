@@ -192,6 +192,33 @@ Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically
 
 ---
 
+### 📚 Practice & Learning
+
+<details>
+<summary><b>View all practice repositories</b> — DSA, Dart, C++, and Assembly</summary>
+<br/>
+
+**Dart**
+- [Dart-Programming-Practise](https://github.com/Syntrojex/Dart-Programming-Practise)
+- [Problem-Solving-in-Dart](https://github.com/Syntrojex/Problem-Solving-in-Dart) — LeetCode & GeeksforGeeks solutions
+
+**C++**
+- [Cpp-Programming-Practise](https://github.com/Syntrojex/Cpp-Programming-Practise)
+- [Cpp-Assignments](https://github.com/Syntrojex/Cpp-Assignments)
+- [Cpp-Lab-Manuals](https://github.com/Syntrojex/Cpp-Lab-Manuals)
+- [Problem-Solving-in-Cpp](https://github.com/Syntrojex/Problem-Solving-in-Cpp) — LeetCode & GeeksforGeeks solutions
+
+**Assembly (8086)**
+- [8086-Assembly](https://github.com/Syntrojex/8086-Assembly)
+- [8086-Assembly-Lab](https://github.com/Syntrojex/8086-Assembly-Lab)
+
+**Data Structures & Algorithms**
+- [DSA-Problem-Solving](https://github.com/Syntrojex/DSA-Problem-Solving) — FAST-NU assignments
+
+</details>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
