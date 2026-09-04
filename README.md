@@ -247,12 +247,13 @@ Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically
 ## 🔗 Find Me
  
 <div align="center">
+
 <a href="https://mustafa-amir.vercel.app"><img src="https://img.shields.io/badge/Portfolio-16213E?style=for-the-badge&logo=vercel&logoColor=00eaff" height="36"/></a>
-<a href="https://linkedin.com/in/mustafa-amir-syntrojex"><img src="https://img.shields.io/badge/LinkedIn-16213E?style=for-the-badge&logo=linkedin&logoColor=00eaff" height="36"/></a>
+<a href="https://linkedin.com/in/mustafa-amir-syntrojex"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-16213E?style=for-the-badge&logo=linkedin&logoColor=00eaff" height="36"/></a>
 <a href="mailto:mustafaamir398a@gmail.com"><img src="https://img.shields.io/badge/Email-16213E?style=for-the-badge&logo=gmail&logoColor=00eaff" height="36"/></a>
 <a href="https://wa.me/923324097601"><img src="https://img.shields.io/badge/WhatsApp-16213E?style=for-the-badge&logo=whatsapp&logoColor=00eaff" height="36"/></a>
 <a href="https://leetcode.com/Syntrojex"><img src="https://img.shields.io/badge/LeetCode-16213E?style=for-the-badge&logo=leetcode&logoColor=00eaff" height="36"/></a>
- 
+
 </div>
 
 ---
