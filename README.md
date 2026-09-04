@@ -244,7 +244,6 @@ Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically
 
 ---
 
-
 ## 🔗 Find Me
  
 <div align="center">
