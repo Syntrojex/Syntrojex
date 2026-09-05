@@ -218,13 +218,12 @@ Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically
 **C++**
 - [Cpp-Programming-Practise](https://github.com/Syntrojex/Cpp-Programming-Practise) — Hands-on fundamentals
 - [Cpp-Assignments](https://github.com/Syntrojex/Cpp-Assignments) — University assignments
-- [Cpp-Lab-Manuals](https://github.com/Syntrojex/Cpp-Lab-Manuals) — Lab manual work
 - [Problem-Solving-in-Cpp](https://github.com/Syntrojex/Problem-Solving-in-Cpp) — LeetCode & GFG solutions
 
 <hr/>
 
 **Data Structures & Algorithms**
-- [DSA-Problem-Solving](https://github.com/Syntrojex/DSA-Problem-Solving) — FAST-NU assignments
+- [Data-Structures-Pactise](https://github.com/Syntrojex/Data-Structures-Practise) — FAST-NU assignments
 
 </td>
 </tr>
