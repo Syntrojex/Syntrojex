@@ -223,7 +223,7 @@ Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically
 <hr/>
 
 **Data Structures & Algorithms**
-- [Data-Structures-Pactise](https://github.com/Syntrojex/Data-Structures-Practise) — FAST-NU assignments
+- [Data-Structures-Practise](https://github.com/Syntrojex/Data-Structures-Practise) — FAST-NU assignments
 
 </td>
 </tr>
