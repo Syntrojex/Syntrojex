@@ -209,8 +209,7 @@ Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically
 <hr/>
 
 **Assembly (8086)**
-- [8086-Assembly](https://github.com/Syntrojex/8086-Assembly) — Hands-on fundamentals
-- [8086-Assembly-Lab](https://github.com/Syntrojex/8086-Assembly-Lab) — Lab exercises
+- [8086-Assembly-Language](https://github.com/Syntrojex/8086-Assembly-Language) — Hands-on fundamentals & Lab Work
 
 </td>
 <td width="50%" valign="top">
