@@ -99,9 +99,9 @@
 <summary><b>AlgoStructures</b> — interactive DSA learning hub</summary>
 <br/>
 
-<img src="https://placehold.co/380x230/16213e/00eaff?text=Screenshot" width="380" align="left"/>
+<img src="https://placehold.co/400x240/16213e/00eaff?text=Screenshot" width="400" align="left"/>
 
-An interactive playground covering 45+ core DSA topics, each paired with working C++ code and a step-by-step visualization — built so the logic is seen, not just read.
+<span style="font-size: 16px;">An interactive playground covering 45+ core DSA topics, each paired with working C++ code and a step-by-step visualization — built so the logic is seen, not just read.</span>
 
 **Latest Version:** v1.2.0<br/>
 **Live Demo:** [algostructures.vercel.app](https://algostructures.vercel.app/)<br/>
@@ -117,9 +117,9 @@ An interactive playground covering 45+ core DSA topics, each paired with working
 <summary><b>Calculin</b> — math workspace with 14 calculators</summary>
 <br/>
 
-<img src="https://placehold.co/380x230/16213e/00eaff?text=Screenshot" width="380" align="left"/>
+<img src="https://placehold.co/400x240/16213e/00eaff?text=Screenshot" width="400" align="left"/>
 
-A single workspace covering algebra, calculus, matrices, and limits — every calculator walks through the solution step by step instead of just returning an answer.
+<span style="font-size: 16px;">A single workspace covering algebra, calculus, matrices, and limits — every calculator walks through the solution step by step instead of just returning an answer.</span>
 
 **Latest Version:** v1.0.0<br/>
 **Live Demo:** [calculin.vercel.app](https://calculin.vercel.app/)<br/>
@@ -135,7 +135,7 @@ A single workspace covering algebra, calculus, matrices, and limits — every ca
 <summary><b>Dart Programming Concepts</b> — structured Dart notes & practice</summary>
 <br/>
 
-A structured collection of Dart concepts and notes, paired with hands-on examples in a companion practice repo — built while learning Dart from the ground up.
+<span style="font-size: 16px;">A structured collection of Dart concepts and notes, paired with hands-on examples in a companion practice repo — built while learning Dart from the ground up.</span>
 
 **Repo:** [GitHub](https://github.com/Syntrojex/Dart-Concepts)
 
@@ -147,7 +147,7 @@ A structured collection of Dart concepts and notes, paired with hands-on example
 <summary><b>ma-sfml</b> — NPM CLI tool for SFML auto-linking</summary>
 <br/>
 
-Auto-links SFML into C++ projects on Windows — detects your IDE and configures everything in one command, removing the usual manual setup friction.
+<span style="font-size: 16px;">Auto-links SFML into C++ projects on Windows — detects your IDE and configures everything in one command, removing the usual manual setup friction.</span>
 
 **Latest Version:** v1.0.4<br/>
 **Docs:** [GitHub](https://github.com/Syntrojex/ma-sfml#readme)
@@ -160,7 +160,7 @@ Auto-links SFML into C++ projects on Windows — detects your IDE and configures
 <summary><b>Setify C++</b> — zero-config C++ tooling for VS Code</summary>
 <br/>
 
-Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically — write a `.cpp` file, press Run, and it just works.
+<span style="font-size: 16px;">Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically — write a `.cpp` file, press Run, and it just works.</span>
 
 **Latest Version:** v1.0.4<br/>
 **Live Demo:** [Marketplace](https://marketplace.visualstudio.com/items?itemName=Syntrojex.setify-cpp)<br/>
