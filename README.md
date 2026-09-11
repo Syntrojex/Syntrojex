@@ -99,7 +99,7 @@
 <summary><b>AlgoStructures</b> — interactive DSA learning hub</summary>
 <br/>
 
-<img src="https://placehold.co/320x200/16213e/00eaff?text=Screenshot" width="320" align="left"/>
+<img src="https://placehold.co/380x230/16213e/00eaff?text=Screenshot" width="380" align="left"/>
 
 An interactive playground covering 45+ core DSA topics, each paired with working C++ code and a step-by-step visualization — built so the logic is seen, not just read.
 
@@ -117,7 +117,7 @@ An interactive playground covering 45+ core DSA topics, each paired with working
 <summary><b>Calculin</b> — math workspace with 14 calculators</summary>
 <br/>
 
-<img src="https://placehold.co/320x200/16213e/00eaff?text=Screenshot" width="320" align="left"/>
+<img src="https://placehold.co/380x230/16213e/00eaff?text=Screenshot" width="380" align="left"/>
 
 A single workspace covering algebra, calculus, matrices, and limits — every calculator walks through the solution step by step instead of just returning an answer.
 
