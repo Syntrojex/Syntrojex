@@ -95,54 +95,78 @@
 
 ## 🚀 Featured Projects
 
-<img src="https://placehold.co/320x200/16213e/00eaff?text=Screenshot" width="320" align="left"/>
+<details>
+<summary><b>AlgoStructures</b> — interactive DSA learning hub</summary>
+<br/>
 
-**AlgoStructures** — interactive DSA learning hub
+<img src="https://placehold.co/320x200/16213e/00eaff?text=Screenshot" width="320" align="left"/>
 
 An interactive playground covering 45+ core DSA topics, each paired with working C++ code and a step-by-step visualization — built so the logic is seen, not just read.
 
 **Latest Version:** v1.2.0<br/>
-**Live Demo:** [algostructures.vercel.app](https://algostructures.vercel.app)<br/>
+**Live Demo:** [algostructures.vercel.app](https://algostructures.vercel.app/)<br/>
 **Repo:** [GitHub](https://github.com/Syntrojex/algostructures)
 
----
+<br clear="both"/>
+
+</details>
+
+<hr/>
+
+<details>
+<summary><b>Calculin</b> — math workspace with 14 calculators</summary>
+<br/>
 
 <img src="https://placehold.co/320x200/16213e/00eaff?text=Screenshot" width="320" align="left"/>
-
-**Calculin** — math workspace with 14 calculators
 
 A single workspace covering algebra, calculus, matrices, and limits — every calculator walks through the solution step by step instead of just returning an answer.
 
 **Latest Version:** v1.0.0<br/>
-**Live Demo:** [calculin.vercel.app](https://calculin.vercel.app)<br/>
+**Live Demo:** [calculin.vercel.app](https://calculin.vercel.app/)<br/>
 **Repo:** [GitHub](https://github.com/Syntrojex/calculin)
 
----
+<br clear="both"/>
 
-**Dart Programming Concepts** — structured Dart notes & practice
+</details>
+
+<hr/>
+
+<details>
+<summary><b>Dart Programming Concepts</b> — structured Dart notes & practice</summary>
+<br/>
 
 A structured collection of Dart concepts and notes, paired with hands-on examples in a companion practice repo — built while learning Dart from the ground up.
 
 **Repo:** [GitHub](https://github.com/Syntrojex/Dart-Concepts)
 
----
+</details>
 
-**ma-sfml** — NPM CLI tool for SFML auto-linking
+<hr/>
+
+<details>
+<summary><b>ma-sfml</b> — NPM CLI tool for SFML auto-linking</summary>
+<br/>
 
 Auto-links SFML into C++ projects on Windows — detects your IDE and configures everything in one command, removing the usual manual setup friction.
 
 **Latest Version:** v1.0.4<br/>
 **Docs:** [GitHub](https://github.com/Syntrojex/ma-sfml#readme)
 
----
+</details>
 
-**Setify C++** — zero-config C++ tooling for VS Code
+<hr/>
+
+<details>
+<summary><b>Setify C++</b> — zero-config C++ tooling for VS Code</summary>
+<br/>
 
 Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically — write a `.cpp` file, press Run, and it just works.
 
 **Latest Version:** v1.0.4<br/>
 **Live Demo:** [Marketplace](https://marketplace.visualstudio.com/items?itemName=Syntrojex.setify-cpp)<br/>
 **Repo:** [GitHub](https://github.com/Syntrojex/setify-cpp-vscode)
+
+</details>
 
 ---
 
