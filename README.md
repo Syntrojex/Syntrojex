@@ -162,7 +162,7 @@
 
 <span style="font-size: 16px;">Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically — write a `.cpp` file, press Run, and it just works.</span>
 
-**Latest Version:** v1.1.1<br/>
+**Latest Version:** v1.1.2<br/>
 **Live Demo:** [Marketplace](https://marketplace.visualstudio.com/items?itemName=Syntrojex.setify-cpp)<br/>
 **Repo:** [GitHub](https://github.com/Syntrojex/setify-cpp-vscode)
 
