@@ -132,39 +132,14 @@
 <hr/>
 
 <details>
-<summary><b>Dart Programming Concepts</b> — structured Dart notes & practice</summary>
+<summary><b>More Projects</b> — CLI tools, extensions, and learning repos</summary>
 <br/>
 
-<span style="font-size: 16px;">A structured collection of Dart concepts and notes, paired with hands-on examples in a companion practice repo — built while learning Dart from the ground up.</span>
-
-**Repo:** [GitHub](https://github.com/Syntrojex/Dart-Concepts)
-
-</details>
-
-<hr/>
-
-<details>
-<summary><b>ma-sfml</b> — NPM CLI tool for SFML auto-linking</summary>
-<br/>
-
-<span style="font-size: 16px;">Auto-links SFML into C++ projects on Windows — detects your IDE and configures everything in one command, removing the usual manual setup friction.</span>
-
-**Latest Version:** v1.0.4<br/>
-**Docs:** [GitHub](https://github.com/Syntrojex/ma-sfml#readme)
-
-</details>
-
-<hr/>
-
-<details>
-<summary><b>Setify C++</b> — zero-config C++ tooling for VS Code</summary>
-<br/>
-
-<span style="font-size: 16px;">Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically — write a `.cpp` file, press Run, and it just works.</span>
-
-**Latest Version:** v1.1.2<br/>
-**Live Demo:** [Marketplace](https://marketplace.visualstudio.com/items?itemName=Syntrojex.setify-cpp)<br/>
-**Repo:** [GitHub](https://github.com/Syntrojex/setify-cpp-vscode)
+| Project | Description | Links |
+|---|---|---|
+| **Dart Programming Concepts** | Structured Dart concepts and notes, paired with hands-on examples in a companion practice repo | [Repo](https://github.com/Syntrojex/Dart-Concepts) |
+| **ma-sfml** | Auto-links SFML into C++ projects on Windows — detects your IDE and configures everything in one command | v1.0.4 · [Docs](https://github.com/Syntrojex/ma-sfml#readme) |
+| **Setify C++** | Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically | v1.1.1 · [Marketplace](https://marketplace.visualstudio.com/items?itemName=Syntrojex.setify-cpp) · [Repo](https://github.com/Syntrojex/setify-cpp-vscode) |
 
 </details>
 
