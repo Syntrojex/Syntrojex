@@ -103,9 +103,9 @@
 
 <span style="font-size: 16px;">An interactive playground covering 45+ core DSA topics, each paired with working C++ code and a step-by-step visualization — built so the logic is seen, not just read.</span>
 
-**Latest Version:** v1.2.0<br/>
+**Latest Version:** v2.0.2<br/>
 **Live Demo:** [algostructures.vercel.app](https://algostructures.vercel.app/)<br/>
-**Repo:** [GitHub](https://github.com/Syntrojex/algostructures)
+**Repo:** [GitHub](https://github.com/Syntrojex/Algostructures)
 
 <br clear="both"/>
 
@@ -121,9 +121,9 @@
 
 <span style="font-size: 16px;">A single workspace covering algebra, calculus, matrices, and limits — every calculator walks through the solution step by step instead of just returning an answer.</span>
 
-**Latest Version:** v3.8.1<br/>
+**Latest Version:** v3.8.2<br/>
 **Live Demo:** [calculin.vercel.app](https://calculin.vercel.app/)<br/>
-**Repo:** [GitHub](https://github.com/Syntrojex/calculin)
+**Repo:** [GitHub](https://github.com/Syntrojex/Calculin)
 
 <br clear="both"/>
 
@@ -140,7 +140,7 @@
 |---|---|---|
 | **Dart Programming Concepts** | Structured Dart concepts and notes, paired with hands-on examples in a companion practice repo | [Repository](https://github.com/Syntrojex/Dart-Concepts) |
 | **ma-sfml** | Auto-links SFML into C++ projects on Windows — detects your IDE and configures everything in one command | v1.0.4<br> [Docs](https://github.com/Syntrojex/ma-sfml#readme) |
-| **Setify C++** | Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically | v1.1.1<br/>[Marketplace](https://marketplace.visualstudio.com/items?itemName=Syntrojex.setify-cpp)<br/>[Repository](https://github.com/Syntrojex/setify-cpp-vscode) |
+| **Setify C++** | Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically | v1.1.2<br/>[Marketplace](https://marketplace.visualstudio.com/items?itemName=Syntrojex.setify-cpp)<br/>[Repository](https://github.com/Syntrojex/setify-cpp-vscode) |
  
 </details>
 
