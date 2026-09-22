@@ -138,7 +138,7 @@
 
 | Project | Description | Links |
 |---|---|---|
-| **Dart Programming Concepts** | Structured Dart concepts and notes, paired with hands-on examples in a companion practice repo | [Repository](https://github.com/Syntrojex/Dart-Concepts) |
+| **Dart Programming Language** | Structured Dart concepts and notes, paired with hands-on examples in a companion practice repo | [Repository](https://github.com/Syntrojex/Dart-Programming-Language)<br/>[Practice](https://github.com/Syntrojex/Dart-Programming-Practise) |
 | **ma-sfml** | Auto-links SFML into C++ projects on Windows — detects your IDE and configures everything in one command | v1.0.4<br> [Docs](https://github.com/Syntrojex/ma-sfml#readme) |
 | **Setify C++** | Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically | v1.1.2<br/>[Marketplace](https://marketplace.visualstudio.com/items?itemName=Syntrojex.setify-cpp)<br/>[Repository](https://github.com/Syntrojex/setify-cpp-vscode) |
  
