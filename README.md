@@ -148,46 +148,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00eaff,100:0d1117&height=4&section=header" width="100%"/>
 
-### 📚 Practice & Learning
-
-<details>
-<summary><b>View all practice repositories</b> — DSA, Dart, C++, and Assembly</summary>
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Dart**
-- [Dart-Programming-Practise](https://github.com/Syntrojex/Dart-Programming-Practise) — Hands-on fundamentals
-- [Problem-Solving-in-Dart](https://github.com/Syntrojex/Problem-Solving-in-Dart) — LeetCode & GFG solutions
-
-<hr/>
-
-**Assembly (8086)**
-- [8086-Assembly-Language](https://github.com/Syntrojex/8086-Assembly-Language) — Hands-on fundamentals & Lab Work
-
-</td>
-<td width="50%" valign="top">
-
-**C++**
-- [Cpp-Programming-Practise](https://github.com/Syntrojex/Cpp-Programming-Practise) — Hands-on fundamentals
-- [Cpp-Assignments](https://github.com/Syntrojex/Cpp-Assignments) — University assignments
-- [Problem-Solving-in-Cpp](https://github.com/Syntrojex/Problem-Solving-in-Cpp) — LeetCode & GFG solutions
-
-<hr/>
-
-**Data Structures & Algorithms**
-- [Data-Structures-Practise](https://github.com/Syntrojex/Data-Structures-Practise) — FAST-NU assignments
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00eaff,100:0d1117&height=4&section=header" width="100%"/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
