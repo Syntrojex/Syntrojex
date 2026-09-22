@@ -71,6 +71,7 @@
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48"/><br/><sub>Flutter</sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="48"/><br/><sub>Dart</sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48"/><br/><sub>C++</sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/><br/><sub>HTML5</sub></td>
 <td align="center" width="90"><img src="https://img.shields.io/badge/-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white" width="48"/><br/><sub>Assembly</sub></td>
 </tr>
 </table>
@@ -81,7 +82,6 @@
 <tr>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48"/><br/><sub>Firebase</sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48"/><br/><sub>Supabase</sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48"/><br/><sub>Node.js</sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=npm&theme=dark" width="48"/><br/><sub>npm</sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/><sub>Docker</sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br/><sub>GitHub</sub></td>
