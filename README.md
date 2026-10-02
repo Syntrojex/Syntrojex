@@ -6,6 +6,7 @@
 
 [![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fsyntrojex&style=for-the-badge)](https://rankistan.dev/#syntrojex)
 [![Profile Views](https://komarev.com/ghpvc/?username=Syntrojex&color=16213E&style=for-the-badge&label=PROFILE%20VIEWS)](https://github.com/Syntrojex)
+<br>
 [![committers.top badge](https://user-badge.committers.top/pakistan/Syntrojex.svg)](https://user-badge.committers.top/pakistan/Syntrojex)
 
 </div>
