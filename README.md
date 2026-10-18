@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0b4f6c,100:00b8d4&height=240&section=header&text=Syntrojex&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0a3f5a,100:0095ad&height=240&section=header&text=Syntrojex&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00EAFF&center=true&vCenter=true&multiline=false&width=700&lines=Flutter+Developer+%F0%9F%93%B1;Software+Engineer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%8E%AF;State+Management+%28Bloc%2C+Riverpod%2C+Provider%29+%E2%9A%A1)](https://git.io/typing-svg)
 
