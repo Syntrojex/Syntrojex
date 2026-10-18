@@ -157,12 +157,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Syntrojex&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0D1117&border_color=FFFFFF&title_color=00EAFF&icon_color=00EAFF&text_color=FFFFFF&ring_color=00EAFF" height="195"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntrojex&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&border_color=FFFFFF&title_color=00EAFF&text_color=FFFFFF" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Syntrojex&show_icons=true&include_all_commits=true&hide_border=false&border_radius=15&bg_color=0D1117&border_color=FFFFFF&title_color=00EAFF&icon_color=00EAFF&text_color=FFFFFF&ring_color=00EAFF" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntrojex&layout=compact&langs_count=8&hide_border=false&border_radius=15&bg_color=0D1117&border_color=FFFFFF&title_color=00EAFF&text_color=FFFFFF" height="203"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Syntrojex&theme=dark&hide_border=false&border_color=ffffff&background=0D1117&stroke=00EAFF&ring=00EAFF&fire=00EAFF&currStreakLabel=00EAFF)](https://streak-stats.demolab.com/?user=Syntrojex&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Syntrojex&theme=dark&hide_border=false&border_radius=15&border_color=ffffff&background=0D1117&stroke=00EAFF&ring=00EAFF&fire=00EAFF&currStreakLabel=00EAFF)](https://streak-stats.demolab.com/?user=Syntrojex&theme=dark)
 
 </div>
 
