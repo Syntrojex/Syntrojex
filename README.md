@@ -184,4 +184,4 @@
   </span>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0a3f5a,100:0095ad&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0b4f6c,100:00b8d4&height=120&section=footer" width="100%"/>
