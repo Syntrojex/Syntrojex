@@ -149,8 +149,6 @@
  
 </details>
 
-</details>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00eaff,100:0d1117&height=4&section=header" width="100%"/>
 
 ## 📊 GitHub Dominance
