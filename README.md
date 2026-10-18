@@ -186,4 +186,4 @@
   </span>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0b4f6c,100:00b8d4&height=120&section=footer" width="100%"/>
