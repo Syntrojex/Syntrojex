@@ -9,7 +9,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00eaff,100:0d1117&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00b8d4,50:0b4f6c,100:00b8d4&height=4&section=header" width="100%"/>
 
 ## 🧑‍💻 whoami
 
