@@ -157,8 +157,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Syntrojex&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0D1117&border_color=FFFFFF&title_color=00EAFF&icon_color=00EAFF&text_color=FFFFFF&ring_color=00EAFF" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntrojex&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&border_color=FFFFFF&title_color=00EAFF&text_color=FFFFFF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Syntrojex&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0D1117&border_color=FFFFFF&title_color=00EAFF&icon_color=00EAFF&text_color=FFFFFF&ring_color=00EAFF" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntrojex&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&border_color=FFFFFF&title_color=00EAFF&text_color=FFFFFF" height="195"/>
 
 <br/>
 
