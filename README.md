@@ -35,7 +35,7 @@
 - ⚙️ Started with a strong **C++ foundation**, including OOP and Data Structures & Algorithms
 - 🚀 Actively building and shipping practical, real-world tools and applications
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00eaff,100:0d1117&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0095ad,50:00eaff,100:0095ad&height=3&section=header" width="100%"/>
 
 ### 🎯 Core Development Focus
 
@@ -58,7 +58,7 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00eaff,100:0d1117&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0095ad,50:00eaff,100:0095ad&height=3&section=header" width="100%"/>
 
 ## ⚡ Tech Stack
 
@@ -94,7 +94,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00eaff,100:0d1117&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0095ad,50:00eaff,100:0095ad&height=3&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -147,7 +147,7 @@
  
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00eaff,100:0d1117&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0095ad,50:00eaff,100:0095ad&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Dominance
 
@@ -162,7 +162,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00eaff,100:0d1117&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0095ad,50:00eaff,100:0095ad&height=3&section=header" width="100%"/>
 
 ## 🔗 Find Me
  
@@ -176,7 +176,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00eaff,100:0d1117&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0095ad,50:00eaff,100:0095ad&height=3&section=header" width="100%"/>
 
 <p align="center">
   <span style="font-size: 16px;">
