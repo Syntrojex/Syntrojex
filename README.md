@@ -153,9 +153,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00eaff,100:0d1117&height=4&section=header" width="100%"/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Dominance
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Syntrojex&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0D1117&border_color=FFFFFF&title_color=00EAFF&icon_color=00EAFF&text_color=FFFFFF&ring_color=00EAFF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntrojex&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&border_color=FFFFFF&title_color=00EAFF&text_color=FFFFFF" height="170"/>
+
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Syntrojex&theme=dark&hide_border=false&border_color=ffffff&background=0D1117&stroke=00EAFF&ring=00EAFF&fire=00EAFF&currStreakLabel=00EAFF)](https://streak-stats.demolab.com/?user=Syntrojex&theme=dark)
 
