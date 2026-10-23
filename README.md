@@ -17,11 +17,7 @@
 {
   "name": "Muhammad Mustafa Amir",
   "alias": "Syntrojex",
-  "roles": [
-    "Flutter Developer",
-    "Mobile App Developer",
-    "Software Engineer"
-  ],
+  "roles": ["Flutter Developer", "Mobile App Developer", "Software Engineer"],
   "education": "BS Software Engineering @ FAST-NU, Lahore",
   "currently_learning": "State Management (Bloc, Riverpod, Provider)",
   "focus": "Building practical, cross-platform mobile applications",
