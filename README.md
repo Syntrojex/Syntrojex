@@ -102,7 +102,7 @@
 
 <span style="font-size: 16px;">An interactive playground covering 45+ core DSA topics, each paired with working C++ code and a step-by-step visualization — built so the logic is seen, not just read.</span>
 
-**Latest Version:** v2.0.2<br/>
+**Latest Version:** v2.7.0<br/>
 **Live Demo:** [algostructures.vercel.app](https://algostructures.vercel.app/)<br/>
 **Repo:** [GitHub](https://github.com/Syntrojex/Algostructures)
 
