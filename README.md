@@ -113,14 +113,14 @@
 <hr/>
 
 <details>
-<summary><b>Calculin</b> — math workspace with 14 calculators</summary>
+<summary><b>Calculin</b> — math workspace</summary>
 <br/>
 
 <img src="https://github.com/user-attachments/assets/896a397a-bf60-4646-8efa-994682260c7b" width="450" align="left"/>
 
-<span style="font-size: 16px;">A single workspace covering algebra, calculus, matrices, and limits — every calculator walks through the solution step by step instead of just returning an answer.</span>
+<span style="font-size: 16px;">A unified mathematics workspace where calculators explain the solution step by step, combining algebra, calculus, matrices, graphing, and essential mathematical tools in one place.</span>
 
-**Latest Version:** v3.8.3<br/>
+**Latest Version:** v3.8.4<br/>
 **Live Demo:** [calculin.vercel.app](https://calculin.vercel.app/)<br/>
 **Repo:** [GitHub](https://github.com/Syntrojex/Calculin)
 
