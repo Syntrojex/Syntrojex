@@ -14,19 +14,19 @@
 {
   "name": "Muhammad Mustafa Amir",
   "alias": "Syntrojex",
-  "roles": ["Flutter Developer", "Mobile App Developer", "Software Engineer"],
+  "roles": ["Software Engineer", "Systems Developer", "Cross-Platform Engineer"],
   "education": "BS Software Engineering @ FAST-NU, Lahore",
-  "currently_learning": "State Management (Bloc, Riverpod, Provider)",
-  "focus": "Building practical, cross-platform mobile applications",
-  "stack": ["Flutter", "Dart", "C++"],
-  "status": "🟢 Open to freelance & collaboration"
+  "currently_focusing_on": "Core Architecture, DSA & Developer Utilities",
+  "focus": "Building scalable cross-platform systems & high-throughput tooling",
+  "stack": ["Dart", "Flutter", "C++", "TypeScript"],
+  "status": "🟢 Open to high-signal collaboration & technical systems projects"
 }
 ```
 
-- 🎓 Currently pursuing a **BS in Software Engineering** at FAST National University, Lahore
-- 📱 Focused on **Flutter & Dart** development — turning ideas into cross-platform mobile apps
-- ⚙️ Started with a strong **C++ foundation**, including OOP and Data Structures & Algorithms
-- 🚀 Actively building and shipping practical, real-world tools and applications
+- 🎓 Pursuing BS Software Engineering at FAST National University, Lahore (aka Syntrojex)
+- ⚙️ Bridging product execution with low-level logic — Dart/Flutter cross-platform apps + C++ & TypeScript systems
+- 🚀 Building production-ready software, core algorithm architectures, and automated developer tooling
+- 📐 Focused on clean code, scalable design patterns, and maintainable systems
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0095ad,50:00eaff,100:0095ad&height=3&section=header" width="100%"/>
 
