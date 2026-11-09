@@ -171,12 +171,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0095ad,50:00eaff,100:0095ad&height=3&section=header" width="100%"/>
-
-<p align="center">
-  <span style="font-size: 16px;">
-    <b>Syntrojex</b> is the official and only GitHub account of <b>Muhammad Mustafa Amir</b>. No other account is affiliated with or managed on behalf of this identity.
-  </span>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0b4f6c,100:00b8d4&height=120&section=footer" width="100%"/>
