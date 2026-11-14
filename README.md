@@ -2,11 +2,7 @@
 
 <img src="./assets/hero-syntrojex.svg" alt="Syntrojex" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00EAFF&center=true&vCenter=true&multiline=false&width=700&lines=Flutter+Developer+%F0%9F%93%B1;Software+Engineer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%8E%AF;State+Management+%28Bloc%2C+Riverpod%2C+Provider%29+%E2%9A%A1)](https://git.io/typing-svg)
-
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00b8d4&height=3&section=header" width="100%"/>
 
 ## 🧑‍💻 whoami
 
