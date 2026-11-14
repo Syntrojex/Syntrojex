@@ -4,6 +4,8 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0095ad,50:00eaff,100:0095ad&height=3&section=header" width="100%"/>
+
 ## 🧑‍💻 whoami
 
 ```json
