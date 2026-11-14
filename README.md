@@ -101,13 +101,6 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/Syntrojex/Dart-Programming-Concepts"><img src="./assets/dart-concepts.svg" alt="Dart Programming Concepts" width="50%"/></a>
-  <br/><a href="https://github.com/Syntrojex/Dart-Programming-Concepts">Repository</a> · <a href="https://github.com/Syntrojex/Dart-Programming-Practise">Practice</a>
-</div>
-
-<br/>
-
 <table>
 <tr>
 <td width="50%">
