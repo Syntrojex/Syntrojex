@@ -143,4 +143,4 @@
 
 </div>
 
-<img src="./assets/footer-syntrojex.svg" alt="Thanks for stopping by" width="100%"/>
+<img src="./assets/footer.svg" width="100%"/>
