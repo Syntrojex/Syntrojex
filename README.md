@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/hero-syntrojex.svg" alt="Syntrojex banner" width="100%"/>
+<img src="./assets/hero-syntrojex.svg" alt="Syntrojex" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00EAFF&center=true&vCenter=true&multiline=false&width=700&lines=Flutter+Developer+%F0%9F%93%B1;Software+Engineer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%8E%AF;State+Management+%28Bloc%2C+Riverpod%2C+Provider%29+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -94,17 +96,19 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="50%">
-  <a href="https://algostructures.vercel.app/"><img src="./assets/algostructures.svg" alt="AlgoStructures" width="100%"/></a>
-  <br/><a href="https://algostructures.vercel.app/">Live Demo</a> · <a href="https://github.com/Syntrojex/Algostructures">Repo</a>
-</td>
-<td width="50%">
-  <a href="https://github.com/Syntrojex/Dart-Programming-Concepts"><img src="./assets/dart-concepts.svg" alt="Dart Programming Concepts" width="100%"/></a>
+<a href="https://algostructures.vercel.app/"><img src="./assets/algostructures.svg" alt="AlgoStructures" width="100%"/></a>
+<div align="center"><a href="https://algostructures.vercel.app/">Live Demo</a> · <a href="https://github.com/Syntrojex/Algostructures">Repo</a></div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Syntrojex/Dart-Programming-Concepts"><img src="./assets/dart-concepts.svg" alt="Dart Programming Concepts" width="50%"/></a>
   <br/><a href="https://github.com/Syntrojex/Dart-Programming-Concepts">Repository</a> · <a href="https://github.com/Syntrojex/Dart-Programming-Practise">Practice</a>
-</td>
-</tr>
+</div>
+
+<br/>
+
+<table>
 <tr>
 <td width="50%">
   <a href="https://github.com/Syntrojex/ma-sfml#readme"><img src="./assets/ma-sfml.svg" alt="ma-sfml" width="100%"/></a>
@@ -137,7 +141,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0095ad,50:00eaff,100:0095ad&height=3&section=header" width="100%"/>
 
 ## 🔗 Find Me
- 
+
 <div align="center">
 
 <a href="https://mustafa-amir.vercel.app"><img src="https://img.shields.io/badge/Portfolio-16213E?style=for-the-badge&logo=vercel&logoColor=00eaff" height="36"/></a>
