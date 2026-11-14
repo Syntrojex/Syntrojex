@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/hero-syntrojex.svg" alt="Syntrojex" width="100%"/>
+<img src="./assets/header.svg" alt="Syntrojex" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0095ad,50:00eaff,100:0095ad&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00b8d4&height=3&section=header" width="100%"/>
 
 ## 🧑‍💻 whoami
 
@@ -89,17 +89,17 @@
 
 ## 🚀 Featured Projects
 
-<a href="https://calculin.vercel.app/"><img src="./assets/calculin.svg" alt="Calculin" width="100%"/></a>
-<div align="center"><a href="https://calculin.vercel.app/">Live Demo</a> · <a href="https://github.com/Syntrojex/Calculin">Repo</a></div>
-
-<br/>
-
-<a href="https://algostructures.vercel.app/"><img src="./assets/algostructures.svg" alt="AlgoStructures" width="100%"/></a>
-<div align="center"><a href="https://algostructures.vercel.app/">Live Demo</a> · <a href="https://github.com/Syntrojex/Algostructures">Repo</a></div>
-
-<br/>
-
 <table>
+<tr>
+<td width="50%">
+  <a href="https://calculin.vercel.app/"><img src="./assets/calculin.svg" alt="Calculin" width="100%"/></a>
+  <br/><a href="https://calculin.vercel.app/">Live Demo</a> · <a href="https://github.com/Syntrojex/Calculin">Repo</a>
+</td>
+<td width="50%">
+  <a href="https://algostructures.vercel.app/"><img src="./assets/algostructures.svg" alt="AlgoStructures" width="100%"/></a>
+  <br/><a href="https://algostructures.vercel.app/">Live Demo</a> · <a href="https://github.com/Syntrojex/Algostructures">Repo</a>
+</td>
+</tr>
 <tr>
 <td width="50%">
   <a href="https://github.com/Syntrojex/ma-sfml#readme"><img src="./assets/ma-sfml.svg" alt="ma-sfml" width="100%"/></a>
@@ -112,18 +112,19 @@
 </tr>
 </table>
 
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0095ad,50:00eaff,100:0095ad&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Dominance
 
+<table>
+<tr>
+<td width="50%"><img src="./assets/github-streak.svg" alt="GitHub streak" width="100%"/></td>
+<td width="50%"><img src="./assets/github-langs.svg" alt="Most used languages" width="100%"/></td>
+</tr>
+</table>
+
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Syntrojex&show_icons=true&include_all_commits=true&hide_border=false&border_radius=15&line_height=24&bg_color=0D1117&border_color=FFFFFF&title_color=00EAFF&icon_color=00EAFF&text_color=FFFFFF&ring_color=00EAFF"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntrojex&layout=compact&langs_count=8&card_width=350&hide_border=false&border_radius=15&bg_color=0D1117&border_color=FFFFFF&title_color=00EAFF&text_color=FFFFFF"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Syntrojex&theme=dark&hide_border=false&border_radius=15&border_color=ffffff&background=0D1117&stroke=00EAFF&ring=00EAFF&fire=00EAFF&currStreakLabel=00EAFF)](https://streak-stats.demolab.com/?user=Syntrojex&theme=dark)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Syntrojex&color=16213E&style=for-the-badge&label=PROFILE%20VIEWS)](https://github.com/Syntrojex)
 
@@ -143,4 +144,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0b4f6c,100:00b8d4&height=120&section=footer" width="100%"/>
+<img src="./assets/footer-syntrojex.svg" alt="Thanks for stopping by" width="100%"/>
