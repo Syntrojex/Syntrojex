@@ -117,12 +117,11 @@
 
 ## 📊 GitHub Dominance
 
-<table>
-<tr>
-<td width="50%"><img src="./assets/github-streak.svg" alt="GitHub streak" width="100%"/></td>
-<td width="50%"><img src="./assets/github-langs.svg" alt="Most used languages" width="100%"/></td>
-</tr>
-</table>
+<div align="center">
+
+<img src="./assets/github-streak.svg" alt="GitHub streak" width="495"/>
+
+</div>
 
 <div align="center">
 
