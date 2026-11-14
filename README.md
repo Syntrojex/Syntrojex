@@ -89,55 +89,35 @@
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>AlgoStructures</b> — interactive DSA learning hub</summary>
-<br/>
-
-<img src="https://github.com/user-attachments/assets/7a56395d-104c-4488-8569-4966b4c5b61d" width="450" align="left"/>
-
-<span style="font-size: 16px;">An interactive playground covering 45+ core DSA topics, each paired with working C++ code and a step-by-step visualization — built so the logic is seen, not just read.</span>
-
-**Latest Version:** v2.7.0<br/>
-**Live Demo:** [algostructures.vercel.app](https://algostructures.vercel.app/)<br/>
-**Repo:** [GitHub](https://github.com/Syntrojex/Algostructures)
-
-<br clear="both"/>
-
-</details>
-
-<hr/>
-
-<details>
-<summary><b>Calculin</b> — math workspace</summary>
-<br/>
-
-<img src="https://github.com/user-attachments/assets/896a397a-bf60-4646-8efa-994682260c7b" width="450" align="left"/>
-
-<span style="font-size: 16px;">A unified mathematics workspace where calculators explain the solution step by step, combining algebra, calculus, matrices, graphing, and essential mathematical tools in one place.</span>
-
-**Latest Version:** v3.8.4<br/>
-**Live Demo:** [calculin.vercel.app](https://calculin.vercel.app/)<br/>
-**Repo:** [GitHub](https://github.com/Syntrojex/Calculin)
-
-<br clear="both"/>
-
-</details>
-
-<hr/>
-
-<details>
-<summary><b>More Projects</b> — CLI tools, extensions, and learning repos</summary>
-<br/>
-
-
-| Project | Description | Links |
-|---|---|---|
-| **Dart Programming Concepts** | Structured Dart concepts and notes, paired with hands-on examples in a companion practice repo | [Repository](https://github.com/Syntrojex/Dart-Programming-Concepts)<br/>[Practice](https://github.com/Syntrojex/Dart-Programming-Practise) |
-| **ma-sfml** | Auto-links SFML into C++ projects on Windows — detects your IDE and configures everything in one command | v1.0.7<br> [Docs](https://github.com/Syntrojex/ma-sfml#readme) |
-| **Setify C++** | Installs and wires up a full C++ compiler (MinGW-w64) into VS Code automatically | v1.1.6<br/>[Marketplace](https://marketplace.visualstudio.com/items?itemName=Syntrojex.setify-cpp)<br/>[Repository](https://github.com/Syntrojex/setify-cpp-vscode) |
- 
-</details>
-
+<table>
+<tr>
+<td width="50%">
+  <a href="https://algostructures.vercel.app/"><img src="./assets/algostructures.svg" alt="AlgoStructures" width="100%"/></a>
+  <br/><a href="https://algostructures.vercel.app/">Live Demo</a> · <a href="https://github.com/Syntrojex/Algostructures">Repo</a>
+</td>
+<td width="50%">
+  <a href="https://calculin.vercel.app/"><img src="./assets/calculin.svg" alt="Calculin" width="100%"/></a>
+  <br/><a href="https://calculin.vercel.app/">Live Demo</a> · <a href="https://github.com/Syntrojex/Calculin">Repo</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <a href="https://github.com/Syntrojex/Dart-Programming-Concepts"><img src="./assets/dart-concepts.svg" alt="Dart Programming Concepts" width="100%"/></a>
+  <br/><a href="https://github.com/Syntrojex/Dart-Programming-Concepts">Repository</a> · <a href="https://github.com/Syntrojex/Dart-Programming-Practise">Practice</a>
+</td>
+<td width="50%">
+  <a href="https://github.com/Syntrojex/ma-sfml#readme"><img src="./assets/ma-sfml.svg" alt="ma-sfml" width="100%"/></a>
+  <br/><a href="https://github.com/Syntrojex/ma-sfml#readme">Docs</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <a href="https://marketplace.visualstudio.com/items?itemName=Syntrojex.setify-cpp"><img src="./assets/setify-cpp.svg" alt="Setify C++" width="100%"/></a>
+  <br/><a href="https://marketplace.visualstudio.com/items?itemName=Syntrojex.setify-cpp">Marketplace</a> · <a href="https://github.com/Syntrojex/setify-cpp-vscode">Repository</a>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0095ad,50:00eaff,100:0095ad&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Dominance
