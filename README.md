@@ -28,29 +28,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0095ad,50:00eaff,100:0095ad&height=3&section=header" width="100%"/>
 
-### 🎯 Core Development Focus
-
-<table>
-<tr>
-<td width="160"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="30" align="left"/>&nbsp;&nbsp;<b>Flutter</b></td>
-<td>My primary focus — building cross-platform mobile apps from UI to logic.</td>
-</tr>
-<tr>
-<td width="160"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="30" align="left"/>&nbsp;&nbsp;<b>Dart</b></td>
-<td>The language behind every Flutter app I ship, used daily.</td>
-</tr>
-<tr>
-<td width="160"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="30" align="left"/>&nbsp;&nbsp;<b>C++</b></td>
-<td>Where it all started — OOP, data structures, and algorithms built my foundation, with a growing interest in game development.</td>
-</tr>
-<tr>
-<td width="160"><img src="https://img.shields.io/badge/-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white" width="30" align="left"/>&nbsp;&nbsp;<b>Assembly</b></td>
-<td>Where I learned to work close to the machine — registers, memory, and raw instructions.</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0095ad,50:00eaff,100:0095ad&height=3&section=header" width="100%"/>
-
 ## ⚡ Tech Stack
 
 <div align="center">
