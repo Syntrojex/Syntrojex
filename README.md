@@ -89,6 +89,11 @@
 
 ## 🚀 Featured Projects
 
+<a href="https://calculin.vercel.app/"><img src="./assets/calculin.svg" alt="Calculin" width="100%"/></a>
+<div align="center"><a href="https://calculin.vercel.app/">Live Demo</a> · <a href="https://github.com/Syntrojex/Calculin">Repo</a></div>
+
+<br/>
+
 <table>
 <tr>
 <td width="50%">
@@ -96,28 +101,22 @@
   <br/><a href="https://algostructures.vercel.app/">Live Demo</a> · <a href="https://github.com/Syntrojex/Algostructures">Repo</a>
 </td>
 <td width="50%">
-  <a href="https://calculin.vercel.app/"><img src="./assets/calculin.svg" alt="Calculin" width="100%"/></a>
-  <br/><a href="https://calculin.vercel.app/">Live Demo</a> · <a href="https://github.com/Syntrojex/Calculin">Repo</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
   <a href="https://github.com/Syntrojex/Dart-Programming-Concepts"><img src="./assets/dart-concepts.svg" alt="Dart Programming Concepts" width="100%"/></a>
   <br/><a href="https://github.com/Syntrojex/Dart-Programming-Concepts">Repository</a> · <a href="https://github.com/Syntrojex/Dart-Programming-Practise">Practice</a>
 </td>
+</tr>
+<tr>
 <td width="50%">
   <a href="https://github.com/Syntrojex/ma-sfml#readme"><img src="./assets/ma-sfml.svg" alt="ma-sfml" width="100%"/></a>
   <br/><a href="https://github.com/Syntrojex/ma-sfml#readme">Docs</a>
 </td>
-</tr>
-<tr>
 <td width="50%">
   <a href="https://marketplace.visualstudio.com/items?itemName=Syntrojex.setify-cpp"><img src="./assets/setify-cpp.svg" alt="Setify C++" width="100%"/></a>
   <br/><a href="https://marketplace.visualstudio.com/items?itemName=Syntrojex.setify-cpp">Marketplace</a> · <a href="https://github.com/Syntrojex/setify-cpp-vscode">Repository</a>
 </td>
-<td width="50%"></td>
 </tr>
 </table>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0095ad,50:00eaff,100:0095ad&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Dominance
