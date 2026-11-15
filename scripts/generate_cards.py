@@ -151,7 +151,9 @@ def get_data():
 # --------------------------------------------------------------- streak math
 def streaks(days):
     total = sum(days.values())
-    first = min(days) if days else TODAY
+    # first day with an actual contribution (not Jan 1 of the account's first year)
+    active = [d for d, n in days.items() if n > 0]
+    first = min(active) if active else (min(days) if days else TODAY)
     # current streak: today may still be empty without breaking it
     cur_end = TODAY if days.get(TODAY, 0) > 0 else TODAY - timedelta(days=1)
     cur_len, d = 0, cur_end
