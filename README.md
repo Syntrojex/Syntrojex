@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Syntrojex" width="100%"/>
+<img src="./assets/header2.svg" alt="Syntrojex" width="100%"/>
 
 </div>
 
