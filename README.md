@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/header1.svg" alt="Syntrojex" width="100%"/>
+<img src="./assets/header.svg" alt="Syntrojex" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7D8794,50:C9D1D9,100:7D8794&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0095ad,50:00eaff,100:0095ad&height=3&section=header" width="100%"/>
 
 ## 🧑‍💻 whoami
 
